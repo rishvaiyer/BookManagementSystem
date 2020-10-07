@@ -1,0 +1,5 @@
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2GV.csprojAssemblyReference.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2GV.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.pdb
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2GV.csproj.CoreCompileInputs.cache

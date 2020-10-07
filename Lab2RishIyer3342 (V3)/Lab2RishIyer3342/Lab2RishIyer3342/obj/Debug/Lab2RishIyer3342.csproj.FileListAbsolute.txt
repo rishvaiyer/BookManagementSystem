@@ -1,0 +1,176 @@
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\Lab2RishIyer3342.dll.config
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\Lab2RishIyer3342.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\Lab2RishIyer3342.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csc.exe
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csc.exe.config
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csc.rsp
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csi.exe
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csi.exe.config
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csi.rsp
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.AppContext.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Console.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.Compression.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Claims.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.ValueTuple.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\vbc.exe
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\vbc.exe.config
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\vbc.rsp
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\VBCSCompiler.exe
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\Utilites.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\Utilites.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.csprojAssemblyReference.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.csproj.CopyComplete
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.pdb
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.csprojAssemblyReference.cache
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\Lab2RishIyer3342.dll.config
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\Lab2RishIyer3342.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\Lab2RishIyer3342.pdb
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csc.exe
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csc.exe.config
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csc.rsp
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csi.exe
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csi.exe.config
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csi.rsp
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.AppContext.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Console.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\vbc.exe
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\vbc.exe.config
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\vbc.rsp
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\Utilites.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\Utilites.pdb
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.csproj.CopyComplete
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.dll
+C:\Users\Tyler\Downloads\Lab2RishIyer3342\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\Lab2RishIyer3342.dll.config
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\Lab2RishIyer3342.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\Lab2RishIyer3342.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csc.exe
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csc.exe.config
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csc.rsp
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csi.exe
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csi.exe.config
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\csi.rsp
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.AppContext.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Console.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.Compression.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Claims.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.ValueTuple.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\vbc.exe
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\vbc.exe.config
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\vbc.rsp
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\VBCSCompiler.exe
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\BookLibrary.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\Utilites.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\BookLibrary.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\Utilites.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.csprojAssemblyReference.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.csproj.CopyComplete
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Lab2RishIyer3342\obj\Debug\Lab2RishIyer3342.pdb

@@ -1,0 +1,9 @@
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\BookLibrary\bin\Debug\BookLibrary.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\BookLibrary\bin\Debug\Utilites.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\BookLibrary\bin\Debug\Utilites.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\BookLibrary\obj\Debug\BookLibrary.csprojAssemblyReference.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\BookLibrary\obj\Debug\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\BookLibrary\obj\Debug\BookLibrary.csproj.CopyComplete
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\BookLibrary\obj\Debug\BookLibrary.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\BookLibrary\obj\Debug\BookLibrary.pdb

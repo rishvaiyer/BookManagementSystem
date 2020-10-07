@@ -1,0 +1,84 @@
+﻿body {
+    background-color: #FAD39E;
+    background-color: white;
+    font-family: 'Mukta', sans-serif;
+}
+
+
+#title {
+    font-size: 50px;
+    font-family: 'Bungee', cursive;
+    color: darkslategrey;
+ 
+    text-align: center;
+  
+    
+}
+#bookPic {
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.container {
+    height: 80%;
+    margin: 0 auto;
+    background-color: lightsalmon;
+    width: 60%;
+}
+
+.note {
+    position: relative;
+    width: 66%;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    margin: 2em auto;
+    margin-bottom: 20px;
+    color: black;
+    background-color: white;
+    overflow: hidden;
+    top: 0px;
+    font-family: 'Mukta', sans-serif;
+    left: 44px;
+    height: 100%;
+    border: solid 4px grey;
+    border-radius: 10px;
+}
+
+   
+
+        .error {
+            color: red;
+        }
+
+        .topLabels {
+            position:absolute;
+            left: 20px;
+
+        }
+
+.textBoxes {
+    left: 100px;
+}
+
+#basicInfo {
+    padding-bottom: 20px;
+    margin-bottom: 5px;
+}
+
+#basicInfoHeader {
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: underline;
+
+    color: dimgrey;
+    font-family: 'Mukta', sans-serif;
+    text-align: left;
+}

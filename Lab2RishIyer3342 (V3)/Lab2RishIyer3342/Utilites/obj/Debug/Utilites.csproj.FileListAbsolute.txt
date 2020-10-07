@@ -1,0 +1,12 @@
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Utilites\bin\Debug\Utilites.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Utilites\bin\Debug\Utilites.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Utilites\obj\Debug\Utilites.csprojAssemblyReference.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Utilites\obj\Debug\Utilites.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Utilites\obj\Debug\Utilites.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342\Utilites\obj\Debug\Utilites.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Utilites\bin\Debug\Utilites.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Utilites\bin\Debug\Utilites.pdb
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Utilites\obj\Debug\Utilites.csprojAssemblyReference.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Utilites\obj\Debug\Utilites.csproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Utilites\obj\Debug\Utilites.dll
+C:\Users\rishi\Desktop\Lab2RishIyer3342 (V3)\Lab2RishIyer3342\Utilites\obj\Debug\Utilites.pdb
